@@ -6,6 +6,7 @@
 <main>
   <div>
     <FotoPiscina />
+    
     <Formulario />
   </div>
 </main>
