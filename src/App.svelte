@@ -7,7 +7,6 @@
   <div>
     <FotoPiscina />
     <Formulario />
-    hola
   </div>
 </main>
 
